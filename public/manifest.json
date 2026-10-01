@@ -1,0 +1,11 @@
+{
+  "name": "ALPH AI",
+  "short_name": "ALPH AI",
+  "description": "Assistant intelligent du quotidien",
+  "start_url": "/Alph-AI/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#111827",
+  "orientation": "portrait",
+  "icons": []
+}
